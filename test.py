@@ -1,0 +1,1 @@
+print('Neo test passed')
